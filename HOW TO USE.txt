@@ -1,0 +1,34 @@
+HOW TO USE
+
+• Using terminal/command prompt:
+
+>> Main Memory Project (Part 1)
+
+1. Extract the file "MainMemory Source Code" from the zip "CPCS361Group5POurCode.zip"
+2. Open command prompt
+3. Make sure you're in the correct directory (inside "MainMemory src" directory)
+4. Type javac Processes.java [Enter]
+5. Type javac Partition.java [Enter]
+6. Type javac Memory.java [Enter]
+7. Type javac MemoryManagement.java [Enter]
+8. Type java MemoryManagement [Enter]
+
+** ORDER IS IMPORTANT
+
+Now the program should be running well :D
+-----------------------------------------------------------------
+
+>> Virtual Memory Project (Part 2)
+
+1. Extract the file "VirtualMemory Source Code" from the zip "CPCS361Group5POurCode.zip"
+2. Open command prompt
+3. Make sure you're in the correct directory (inside "VirtualMemory src" directory)
+4. Type javac Address.java [Enter]
+5. Type javac Frame.java [Enter]
+6. Type javac Memory.java [Enter]
+7. Type javac VirtualMemory.java [Enter]
+8. Type java VirtualMemory [Enter]
+
+** ORDER IS IMPORTANT
+
+ENJOY!
